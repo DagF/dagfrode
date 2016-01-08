@@ -2,3 +2,5 @@
 .idea
 lib
 bin
+*.sqlite3
+env/
